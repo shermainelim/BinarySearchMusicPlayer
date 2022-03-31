@@ -1,0 +1,15 @@
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.AssemblyReference.cache
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.ResolveComReference.cache
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.MusicPlayerApp.resources
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.cache
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+C:\Users\Shermaine\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb
